@@ -1,0 +1,15 @@
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\bin\Debug\net8.0\SkillFactory.ConsoleApp.exe
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\bin\Debug\net8.0\SkillFactory.ConsoleApp.deps.json
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\bin\Debug\net8.0\SkillFactory.ConsoleApp.runtimeconfig.json
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\bin\Debug\net8.0\SkillFactory.ConsoleApp.dll
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\bin\Debug\net8.0\SkillFactory.ConsoleApp.pdb
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\obj\Debug\net8.0\SkillFactory.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\obj\Debug\net8.0\SkillFactory.ConsoleApp.AssemblyInfoInputs.cache
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\obj\Debug\net8.0\SkillFactory.ConsoleApp.AssemblyInfo.cs
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\obj\Debug\net8.0\SkillFactory.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\obj\Debug\net8.0\SkillFactory.ConsoleApp.sourcelink.json
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\obj\Debug\net8.0\SkillFactory.ConsoleApp.dll
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\obj\Debug\net8.0\refint\SkillFactory.ConsoleApp.dll
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\obj\Debug\net8.0\SkillFactory.ConsoleApp.pdb
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\obj\Debug\net8.0\SkillFactory.ConsoleApp.genruntimeconfig.cache
+C:\Repository\SkillFactory\SkillFactory.ConsoleApp\obj\Debug\net8.0\ref\SkillFactory.ConsoleApp.dll
